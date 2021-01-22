@@ -81,5 +81,5 @@
         }
     }
     var friendList=["Md.ismail","Md.ibrahim","Abdur Rahman","Md.ismail hossain","Jahid babul"];
-    var result = megaFriend(friendList);
-    console.log(result);
+    var yourLargestName = megaFriend(friendList);
+    console.log(yourLargestName);
